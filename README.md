@@ -3,10 +3,10 @@
 ## 実行方法
 
 ```
-$ cargo run examples/ex8.lin
+$ cargo run codes/ex1.lin
 ```
 
-初期状態では、ex8.linの型付けが可能。
+codes/ex1.linの型付けが行われる。
 
 ## サンプルファイル
 
